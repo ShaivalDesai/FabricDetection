@@ -1,6 +1,6 @@
 .fabric-upload-container {
   font-family: 'Arial', sans-serif;
-  text-align: center;
+  /* text-align: center; */
   margin: 20px auto;
   padding: 20px;
   border: 2px dashed #ccc; /* Dashed border with a subtle color */
